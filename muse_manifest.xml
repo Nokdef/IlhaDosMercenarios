@@ -1,0 +1,99 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://ilhadosmercenarios.netlify.com" resolutions="1x" timestamp="1554163523046">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3989991885" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="tiny-dots-png-6-u726-fr.png" crc="192321098" ref="index"/>
+    <file name="profilelogoinv.png" crc="500745759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1318-4.png" crc="6975480" ref="index"/>
+    <file name="logoonly.png" crc="265179349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raridade.png" crc="171054873" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ilha-dos-mercenários!-favicon.ico" crc="301661170" ref="index"/>
+    <file name="headersplashpromo (1).gif" crc="3820850364" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infobite1.jpg" crc="4145631087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infobite2.jpg" crc="4023416113" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="infobite3.png" crc="4154015431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_cardinfo1.jpg" crc="195188844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_cardinfo3.jpg" crc="80709148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_6.png" crc="528995244" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_5.png" crc="9103912" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_5-u1030-r-fr.png" crc="219779777" ref="index"/>
+    <file name="cardshowcase_4.png" crc="337074899" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_4-u1090-r-fr.png" crc="4158083914" ref="index"/>
+    <file name="cardshowcase_3.png" crc="3850147733" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_3-u1118-r-fr.png" crc="202784090" ref="index"/>
+    <file name="cardshowcase_2.png" crc="18107366" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_2-u1140-r-fr.png" crc="468542863" ref="index"/>
+    <file name="cardshowcase_1.png" crc="389881267" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_1-u1146-r-fr.png" crc="3981887426" ref="index"/>
+    <file name="cardshowcase_12.png" crc="4292604925" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_11.png" crc="3936798573" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_11-u2046-r-fr.png" crc="504302020" ref="index"/>
+    <file name="cardshowcase_10.png" crc="31370677" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_10-u2044-r-fr.png" crc="300937882" ref="index"/>
+    <file name="cardshowcase_9.png" crc="3831662985" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_9-u2050-r-fr.png" crc="4029757407" ref="index"/>
+    <file name="cardshowcase_8.png" crc="498715318" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_8-u2048-r-fr.png" crc="4261434752" ref="index"/>
+    <file name="cardshowcase_7.png" crc="4154845431" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cardshowcase_7-u2054-r-fr.png" crc="4261306515" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3925441467" seo="true" mt="1554163476744" redirect="true"/>
+</manifest>
